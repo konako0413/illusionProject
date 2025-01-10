@@ -6,15 +6,18 @@ The work I created is an illusion that combines the zollner illusion and the spi
 Next, the pointed parts of the heart mark were arranged in a series of spirals. In other words, they were arranged to form a spiral of equal 45 degree angles. (version 2) Then, the pointed part of the heart mark was able to play the role of the line part of the zollner spiral illusion. We are investigating the possibility that the human brain naturally connects the pointed parts of the heart to each other.
 
 ## 📂 Files
-There are three files in the IllusionProject.
+There are three files in the IllusionProject file.
 The basic zollner spiral illusion recreating can be found in the zollner illusion file.
 Version 1 can be found by opening the Heart Flower file.
 Version 2 can be found by opening the Heart Spiral file.
 
 ## 💻 How to Run
+1. The simple way is if you have a p5.js account, you can open `sketch.js` in each file and copy/paste to see it.
+
+or
+
 1. Open the `index.html` file in your browser.
 2. Make sure you have p5.js library included.
-`sketch.js`
 
 ## 🖥️ Output
 The output of the code will display a spiral illusion with a unique effect.
