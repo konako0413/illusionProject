@@ -11,6 +11,14 @@ The basic zollner spiral illusion recreating can be found in the zollner illusio
 Version 1 can be found by opening the Heart Flower file.
 Version 2 can be found by opening the Heart Spiral file.
 
+## 💻 How to Run
+1. Open the `index.html` file in your browser.
+2. Make sure you have p5.js library included.
+`sketch.js`
+
+## 🖥️ Output
+The output of the code will display a spiral illusion with a unique effect.
+
 ## 🔧 Environment Setup
 - Browser: Google Chrome, Firefox, etc.
 - Library: p5.js (https://p5js.org/)
